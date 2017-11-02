@@ -4,6 +4,5 @@ Course project of [EQ2340 Pattern Recognition](https://www.kth.se/social/course/
 
 The basic idea of this project comes as followed: the user queries the name of a familiar melody by humming a snippet of song to the system, and the system evaluates the probability of generating such a piece of recording for each predefined Hidden Markov Model in database and then returns the one with the maximum probability.
 
-## Pipeline
  
  
